@@ -1,0 +1,29 @@
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\obj\Debug\DrawADirection.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\obj\Debug\DrawADirection.Properties.Resources.resources
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\obj\Debug\DrawADirection.csproj.GenerateResource.Cache
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\obj\Debug\DrawADirection.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\bin\Debug\DrawADirection.exe.config
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\bin\Debug\DrawADirection.exe
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\bin\Debug\DrawADirection.pdb
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\obj\Debug\DrawADirection.exe
+C:\Users\yakov\source\repos\DrawADirection\DrawADirection\obj\Debug\DrawADirection.pdb
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\bin\Debug\DrawADirection.exe.config
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\bin\Debug\DrawADirection.exe
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\bin\Debug\DrawADirection.pdb
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.MyForm.resources
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.Properties.Resources.resources
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.csproj.GenerateResource.Cache
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.exe
+C:\Users\yakov\source\repos\DrawADirection Вкладки777\DrawADirection\obj\Debug\DrawADirection.pdb
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\bin\Debug\DrawADirection.exe.config
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\bin\Debug\DrawADirection.exe
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\bin\Debug\DrawADirection.pdb
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.MyForm.resources
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.Properties.Resources.resources
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.csproj.GenerateResource.Cache
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.exe
+C:\Users\yakov\source\repos\DrawADirection Вкладки777.1\DrawADirection\obj\Debug\DrawADirection.pdb
